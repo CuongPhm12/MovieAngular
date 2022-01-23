@@ -1,0 +1,26 @@
+.parent{
+  display: flex;
+}
+
+
+.selected{
+  color: white;
+  background: darkgoldenrod !important;
+}
+
+.movie{
+  background: darkkhaki;
+  padding: 0.5em 1em 0.5em 1.5em;
+  margin: 1em;
+  max-width: 16em;
+
+}
+.movie .movieListItem{
+  font-size: 0.875em;
+  font-family: Georgia,Serif;
+  background: white;
+  padding: 0.3em;
+  margin: 0.2em;
+  text-align: left;
+}
+
